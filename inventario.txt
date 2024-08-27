@@ -1,0 +1,1 @@
+[Producto {nombre = "Pan", categoria = "Comida"},Producto {nombre = "Celular", categoria = "Tecnologia"},Producto {nombre = "Cuadro", categoria = "Decoracion"},Producto {nombre = "Almohada", categoria = "Decoracion"},Producto {nombre = "Reloj", categoria = "Tecnologia"}]
